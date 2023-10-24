@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm r0tary</h1>
+I am a Electrical Engineering Student. Interested in embedded systems, FPGA development, high frequency communication and everything electrical.
 
 <h2 align="left">Languages and tools</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
