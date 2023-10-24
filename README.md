@@ -10,6 +10,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.matlab.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
 
+VHDL, KiCad, LTspice
+## Current Projects
+- [Obsidian Markdown File Image Scraper](https://github.com/r0tary/Obsidian-Markdown-Imgur-image-scraper) - Finds imgur hosted pictures embedded in markdown files and downloads them. The basis for my custom back up program I want to make for my notes
+- Learning STM32
+- Learning RTOS
+
+
 ## Github Stats
 
 <details>
