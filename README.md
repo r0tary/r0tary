@@ -14,8 +14,8 @@ I am a Electrical Engineering Student. Interested in embedded systems, FPGA deve
 VHDL, KiCad, LTspice
 ## Current Projects
 - [Obsidian Markdown File Image Scraper](https://github.com/r0tary/Obsidian-Markdown-Imgur-image-scraper) - Finds imgur hosted pictures embedded in markdown files and downloads them. The basis for my custom back up program I want to make for my notes
-- Learning STM32
-- Learning RTOS
+- Learning NI LabVIEW
+- Formula Student
 
 
 ## Github Stats
